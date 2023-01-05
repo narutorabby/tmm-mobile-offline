@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "428260765707",
+    "project_id": "track-my-money-366110",
+    "storage_bucket": "track-my-money-366110.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428260765707:android:5f71efb7c8ecd1995d170e",
+        "android_client_info": {
+          "package_name": "xyz.trackmymoney.trackmymoney.offline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428260765707-ckpt828dum53sne65dlkt34a7pmgd2ni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "xyz.trackmymoney.trackmymoney.offline",
+            "certificate_hash": "9b2e6d88bf22c8175f4e9888067c6ebb0312241d"
+          }
+        },
+        {
+          "client_id": "428260765707-19ko0nj0j6a6qefd1d41af702noa8te1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNDNLqZcAnnlGqE9nR4OiszC3ArH4_DpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428260765707-19ko0nj0j6a6qefd1d41af702noa8te1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
